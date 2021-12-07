@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo 'Starting Idles' 
+sleep 5 
+samrewritten -i 311210 &  samrewritten -i 774171 & samrewritten -i 282800 & samrewritten -i 945360  & samrewritten -i 1159640\
+& samrewritten -i 238460 &  samrewritten -i 960090 & samrewritten -i 202970 & samrewritten -i 476600  & samrewritten -i 884660 \
+& samrewritten -i 639790 &  samrewritten -i 859680 & samrewritten -i 639780 & samrewritten -i 248330  & samrewritten -i 698780 \
+& samrewritten -i 377160 &  samrewritten -i 4000 &   samrewritten -i 271590 & samrewritten -i 1168170 & samrewritten -i 339800 \
+& samrewritten -i 326480 &  samrewritten -i 424840 & samrewritten -i 619700 & samrewritten -i 562010  & samwritten -i 431960 \
+& samrewritten -i 218620 &  samrewritten -i 851100 & samrewritten -i 945360 & samrewritten -i 1159640 & samrewritten -i 1454400\
+& samrewritten -i 1276390 & samrewritten -i 893520 & samrewritten -i 251570 & samrewritten -i 204360  & samrewritten -i 930210\
+& sleep 20 
+echo 'restarting in 12 hours' && sleep 12h
+echo 'Idles restarting'
+sleep 1
+exit
